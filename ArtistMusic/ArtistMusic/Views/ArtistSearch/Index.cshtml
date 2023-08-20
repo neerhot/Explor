@@ -1,0 +1,8 @@
+﻿@model string
+
+@using (Html.BeginForm("SearchResults", "ArtistSearch", FormMethod.Get))
+{
+    <input type="text" name="artistName" placeholder="Enter artist name" />
+    <input type="submit" value="Search" />
+}
+

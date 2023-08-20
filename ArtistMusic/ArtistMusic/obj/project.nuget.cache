@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SG52svjuEVauAeEZVAy82cW3D+Nn2G2aqvhRSNeNHUMcChlsBNI5mcM4nFiUfL9ejFY1GAUA7Bsbu/aAjhBe2A==",
+  "success": true,
+  "projectFilePath": "D:\\NetCode\\Interview\\Documents\\AllInverview\\2023\\OPtimus\\ProjectArtist\\ArtistMusic\\ArtistMusic\\ArtistMusic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nirbh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

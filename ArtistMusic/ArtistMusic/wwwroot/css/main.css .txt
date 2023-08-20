@@ -1,0 +1,168 @@
+/* main.css */
+
+/* Reset default margins and paddings */
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and font for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style the container for the search form */
+.container {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the search input and button */
+.search-box {
+    display: flex;
+}
+
+.search-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+}
+
+.search-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+/* Style the results section */
+.results {
+    margin-top: 20px;
+}
+
+/* Style individual result items */
+.result-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Style the artist name */
+.artist-name {
+    font-weight: bold;
+}
+
+/* Style the song list */
+.song-list {
+    list-style: none;
+    padding-left: 20px;
+}
+
+/* Style the album title */
+.album-title {
+    color: #666;
+}
+
+/* Add some spacing between elements */
+.spacing {
+    margin-top: 10px;
+}
+/* main.css */
+
+/* Reset default margins and paddings */
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and font for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style the container for the search form */
+.container {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the search input and button */
+.search-box {
+    display: flex;
+}
+
+.search-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+}
+
+.search-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+/* Style the results section */
+.results {
+    margin-top: 20px;
+}
+
+/* Style individual result items */
+.result-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Style the artist name */
+.artist-name {
+    font-weight: bold;
+}
+
+/* Style the song list */
+.song-list {
+    list-style: none;
+    padding-left: 20px;
+}
+
+/* Style the album title */
+.album-title {
+    color: #666;
+}
+
+/* Add some spacing between elements */
+.spacing {
+    margin-top: 10px;
+}
